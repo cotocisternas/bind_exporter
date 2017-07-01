@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/digitalocean/bind_exporter/bind"
+	"github.com/cotocisternas/bind_exporter/bind"
 )
 
 type Isc struct {

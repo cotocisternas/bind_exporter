@@ -12,10 +12,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/digitalocean/bind_exporter/bind"
-	"github.com/digitalocean/bind_exporter/bind/auto"
-	"github.com/digitalocean/bind_exporter/bind/v2"
-	"github.com/digitalocean/bind_exporter/bind/v3"
+	"github.com/cotocisternas/bind_exporter/bind"
+	"github.com/cotocisternas/bind_exporter/bind/auto"
+	"github.com/cotocisternas/bind_exporter/bind/v2"
+	"github.com/cotocisternas/bind_exporter/bind/v3"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/log"
